@@ -2,7 +2,6 @@ import React from "react";
 import Googlelogo from './Assets/Googlelogo.png'
 import Button from "./Button";
 import Language from "./Language";
-import Sidehustle from './Assets/Sidehustle.png'
 import Footer from "../Footer";
 import { useState } from "react";
 const Search =()=>{
